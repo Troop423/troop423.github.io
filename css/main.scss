@@ -6,9 +6,17 @@
 
 //Created CSS
 .site-title {
-    font color: #C9D400;
+    color:#C9D400;
     font-size: 400;
     font-family: 'Black Ops One', cursive;
+}
+#grad {
+    height: 200px;
+    background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, purple); /* Standard syntax (must be last) */
 }
 // Our variables
 $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
