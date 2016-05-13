@@ -10,4 +10,4 @@ This page is under development.
 
 Come back later. 
 
-<h1>Would you like to go [back](http://troop423.github.io/)?</h1>
+<h1>Would you like to go <a href= http://troop423.github.io>back</a>?</h1>
