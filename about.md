@@ -6,7 +6,5 @@ permalink: /about/
 
 ###This page is under development. 
 
-(╯°□°）╯︵ ┻━┻
-
-Come back later. </h3>
+Come back later.
 
