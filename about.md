@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h3>This page is under development. 
+###This page is under development. 
 
 (╯°□°）╯︵ ┻━┻
 
