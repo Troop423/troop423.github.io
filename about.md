@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This page is under development. 
+<h3>This page is under development. 
 
 (╯°□°）╯︵ ┻━┻
 
-Come back later. 
+Come back later. </h3>
 
-<h1>Would you like to go <a href= http://troop423.github.io>back</a>?</h1>
