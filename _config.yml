@@ -9,7 +9,7 @@
 title: Troop 423
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-This is the website for Troop 423.
+'This is the website for Troop 423.'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
