@@ -4,4 +4,8 @@ title: Ranks
 permalink: /ranks/
 ---
 
-<h1>test</h1>
+<!-- Tenderfoot -->
+<a href=troop423.github.io/pdfs/Tenderfoot.pdf
+<img src="http://meritbadge.org/wiki/images/3/35/Tenderfoot.png" />
+<p> Tenderfoot rank </p>
+</a>
