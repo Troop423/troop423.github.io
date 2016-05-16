@@ -3,23 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  <span align="left">
-  <p class="page-heading">Troop Updates</p>
   
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-  </span>
   <span align="right">
-  <p class="page-heading">Website Updates</p>
+  <p class="page-heading">Updates</p>
   
   <ul class="post-list">
     {% for post in site.posts %}
