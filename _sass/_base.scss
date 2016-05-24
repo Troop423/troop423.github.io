@@ -97,11 +97,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: #990033;
     }
 
     &:hover {
-        color: $text-color;
+        color: #3C3939;
         text-decoration: underline;
     }
 }
