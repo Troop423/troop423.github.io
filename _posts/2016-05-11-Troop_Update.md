@@ -3,13 +3,14 @@ layout: post
 title:  "Important troop update"
 date:   2016-05-11 22:08:08 -0400
 categories: update
-permalink: raystown-lake-2016
 ---
-I need summer camp final payments $255 by 5/18 to take advantage of the early bird price.  Fee goes up $20 if not paid by 5/20.
-Raystown lake trip 7/28-7/31 – last call to commit as I hope to be making reservations soon. 
+<ol class="update-list">
+<li>
+Summer camp payments of $255 are due by 5/18 to take advantage of the early bird price. The fee goes up $20 if not paid by 5/20.</li>
+<li>The Raystown lake trip is from 7/28-7/31</li>
 
-Meeting Sunday at 6:30 in the grove. 
+<li>HMC night at the Fightin Phils is on 6/10. Blue Marsh Lake’s Get Outdoors Day 6/11 – HMC is looking for a knot display and staffing for a station. </li>
 
-Any interest in the HMC night at the Fightin Phils 6/10 or Blue Marsh Lake’s Get Outdoors Day 6/11 – note that HMC is looking for a knot display and staffing for a station.
+<li>6/10 is a possible night for a campout at Camp Davis</li>
 
-Note that 6/10 was a night we had identified as a possible campout at Davis. 
+</ol>
