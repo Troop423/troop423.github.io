@@ -222,6 +222,7 @@ body {
 .post-link {
     display: block;
     font-size: 24px;
+    text-decoration: none;
 }
 
 
@@ -237,7 +238,6 @@ body {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-    text-decoration: none;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
