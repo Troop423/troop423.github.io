@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Important troop update"
+title:  "Summer 2016 Campout Info"
 date:   2016-05-11 22:08:08 -0400
 categories: update
 ---
