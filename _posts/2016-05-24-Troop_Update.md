@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Troop 423 update"
+title:  "Troop 423 Update"
 date:   2016-05-24 22:08:08 -0400
 categories: update
 ---
