@@ -16,3 +16,4 @@ gems:
   - jekyll-feed
 # Build settings
 markdown: kramdown
+jekyll-feed
