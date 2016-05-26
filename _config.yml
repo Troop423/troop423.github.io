@@ -10,8 +10,8 @@ title: Troop 423
 email: Troop423Webmaster@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Troop 423's website. This webpage is still in development.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://troop423.github.io" # the base hostname & protocol for your site
 gems:
   - jekyll-feed
 # Build settings
